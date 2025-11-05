@@ -33,6 +33,7 @@ Use the **`[left, right]` inclusive** loop invariant (`while (left <= right)`). 
 
 Java
 
+```
 public static int search(int[] nums, int target) {
     if (nums == null || nums.length == 0) {
         return -1;
@@ -60,6 +61,7 @@ public static int search(int[] nums, int target) {
 
     return -1; // Target not found
 }
+```
 
 ---
 
