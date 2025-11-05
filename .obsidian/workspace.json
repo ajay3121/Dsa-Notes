@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BinarySearch/Search Insert Position (LeetCode 35).md",
+                "file": "BinarySearch/Binary Search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Search Insert Position (LeetCode 35)"
+              "title": "Binary Search"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BinarySearch/Search Insert Position (LeetCode 35).md",
+                "file": "BinarySearch/Binary Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Search Insert Position (LeetCode 35)"
+              "title": "Backlinks for Binary Search"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BinarySearch/Search Insert Position (LeetCode 35).md",
+                "file": "BinarySearch/Binary Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Search Insert Position (LeetCode 35)"
+              "title": "Outgoing links from Binary Search"
             }
           },
           {
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BinarySearch/Search Insert Position (LeetCode 35).md",
+                "file": "BinarySearch/Binary Search.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Search Insert Position (LeetCode 35)"
+              "title": "Outline of Binary Search"
             }
           }
         ],
@@ -188,9 +188,9 @@
   },
   "active": "5a4c3adc5aad5c99",
   "lastOpenFiles": [
+    "BinarySearch/Search Insert Position (LeetCode 35).md",
     "BinarySearch/Binary Search.md",
     "BinarySearch/Longest Subsequence With Limited Sum (LeetCode 2389).md",
-    "BinarySearch/Search Insert Position (LeetCode 35).md",
     "BinarySearch/Binary Search for Range (First_Last Position).md",
     "README.md",
     "BinarySearch/Find Next Higher Element.md",

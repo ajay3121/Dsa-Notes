@@ -37,8 +37,6 @@ We use the standard `while (left <= right)` inclusive search. The logic is ident
 
 ### 📝 Code Snippet (Standard Implementation)
 
-Java
-
 ```
 public int searchInsert(int[] nums, int target) {
     int left = 0;
