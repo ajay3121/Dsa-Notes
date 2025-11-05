@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "57cd5a659e57b642",
+    "id": "fd7523ca8caaa583",
     "type": "split",
     "children": [
       {
-        "id": "5a034d473d2fbfb1",
+        "id": "87ae751596e0a531",
         "type": "tabs",
         "children": [
           {
-            "id": "8ba4713e6c3b74db",
+            "id": "5a4c3adc5aad5c99",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "BinarySearch/Binary Search.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Binary Search"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "18b18f2a1afbe741",
+    "id": "a7c7082723ef258f",
     "type": "split",
     "children": [
       {
-        "id": "24f19378f8581f57",
+        "id": "ac7bd7e814bb8ed3",
         "type": "tabs",
         "children": [
           {
-            "id": "02952db451f8e689",
+            "id": "870147d8f08861c0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "b98a606ccfc58e89",
+            "id": "22b7e1b4486b1b83",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "e3c7661f423e494e",
+            "id": "7504f2b95f898b49",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -71,26 +75,42 @@
             }
           }
         ]
+      },
+      {
+        "id": "4b2e25c826bc5dae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57af3398df4100b7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "9aeea0c4f5b8fc83",
+    "id": "e97be032de7ec29b",
     "type": "split",
     "children": [
       {
-        "id": "2315a25fc51f9233",
+        "id": "4919a4d7fe45a770",
         "type": "tabs",
         "children": [
           {
-            "id": "99d23c8a89186ac0",
+            "id": "70ad5fec7d7edc34",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "BinarySearch/Binary Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +120,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Binary Search"
             }
           },
           {
-            "id": "bc00e3a43c50854c",
+            "id": "9ef46f32e3825280",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "BinarySearch/Binary Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Binary Search"
             }
           },
           {
-            "id": "12dbdd7beb9498e7",
+            "id": "bb4c485af190f9a2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,77 +153,48 @@
             }
           },
           {
-            "id": "82c697247bd9eded",
+            "id": "c403a6e7514723dc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "BinarySearch/Binary Search.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "b709bafd31fbfac8",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "history",
-              "title": "History"
-            }
-          },
-          {
-            "id": "dcbbf4f2bb186569",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Binary Search"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "graph:Open graph view": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ba4713e6c3b74db",
+  "active": "bb4c485af190f9a2",
   "lastOpenFiles": [
-    "Binary Search Pattern Hub.md",
-    "Binary Search.md",
-    "Untitled.canvas",
-    "Search Insert Position (LeetCode 35).md",
-    "Untitled 1.canvas",
-    "Longest Subsequence With Limited Sum (LeetCode 2389).md",
-    "Binary Search for Range (First_Last Position).md",
-    "Binary Search - Rotated Sorted Array.md",
-    "Untitled.base",
-    "Untitled 5.base",
-    "Untitled 4.base",
-    "Untitled 3.base",
-    "Untitled 2.base",
-    "Untitled 1.base",
-    "Find Minimum Element (Pivot) in Rotated Sorted Array.md",
-    "Find Next Higher Element.md",
-    "Binary Search for Range (First and Last Index of element).md"
+    "BinarySearch/Longest Subsequence With Limited Sum (LeetCode 2389).md",
+    "BinarySearch/Search Insert Position (LeetCode 35).md",
+    "BinarySearch/Binary Search for Range (First_Last Position).md",
+    "README.md",
+    "BinarySearch/Binary Search.md",
+    "BinarySearch/Find Next Higher Element.md",
+    "BinarySearch/Find Minimum Element (Pivot) in Rotated Sorted Array.md",
+    "BinarySearch/Binary Search - Rotated Sorted Array.md"
   ]
 }
