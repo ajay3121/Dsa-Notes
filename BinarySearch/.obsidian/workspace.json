@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Binary Search.md",
+                "file": "Search Insert Position (LeetCode 35).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary Search"
+              "title": "Search Insert Position (LeetCode 35)"
             }
           }
         ]
@@ -142,17 +142,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Binary Search.md",
+                "file": "Search Insert Position (LeetCode 35).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Binary Search"
+              "title": "Outline of Search Insert Position (LeetCode 35)"
+            }
+          },
+          {
+            "id": "b709bafd31fbfac8",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -166,18 +176,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "8c04543f7525599b",
   "lastOpenFiles": [
+    "Binary Search.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Search Insert Position (LeetCode 35).md",
     "Longest Subsequence With Limited Sum (LeetCode 2389).md",
     "Binary Search for Range (First_Last Position).md",
     "Binary Search - Rotated Sorted Array.md",
-    "Binary Search.md",
     "Untitled.base",
     "Untitled 5.base",
     "Untitled 4.base",
