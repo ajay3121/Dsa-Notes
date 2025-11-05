@@ -72,3 +72,7 @@ public int searchInsert(int[] nums, int target) {
 
 This problem is a specific case of the **Ceiling** pattern and uses the **Standard Binary Search** structure:
 [[Binary Search]]
+
+
+new msg 
+
